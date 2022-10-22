@@ -1,0 +1,14 @@
+[
+  {
+    "featureType": "administrative.land_parcel",
+    "elementType": "geometry.fill",
+    "stylers": [
+      {
+        "color": "#ff8fe7"
+      },
+      {
+        "weight": 2
+      }
+    ]
+  }
+]
